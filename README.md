@@ -1,18 +1,28 @@
-# 💫 About Me:
-# Hi, I'm Utpal Rajbongshi 👋<br><br>Full-stack developer focused on building fast, modern, and user-centric web applications. I enjoy turning ideas into polished products while exploring AI-powered development workflows and automation.<br><br>## 🚀 What I Do<br><br>- 🌐 Full-Stack Web Development<br>- ⚛️ React & Astro<br>- 🟢 Node.js & Express<br>- 🐘 PostgreSQL & MongoDB<br>- 🎨 Modern UI/UX & Motion<br>- 🤖 AI Integrations, RAG & MCP<br>- 🎬 Video Editing & Motion Graphics<br><br>## 🛠 Tech Stack<br><br>**Frontend**<br>- HTML<br>- CSS<br>- JavaScript<br>- React<br>- Astro<br>- GSAP<br>- Tailwind CSS<br><br>**Backend**<br>- Node.js<br>- Express<br>- REST APIs<br><br>**Database**<br>- PostgreSQL<br>- MongoDB<br><br>**Tools**<br>- Git<br>- GitHub<br>- VS Code<br>- Figma<br>- Postman<br><br>**AI**<br>- Claude<br>- OpenAI<br>- MCP<br>- Local LLMs<br>- AI-assisted development<br><br>## 🎯 Currently Learning<br><br>- Advanced React Architecture<br>- System Design<br>- AI Agents<br>- Retrieval-Augmented Generation (RAG)<br>- Full-Stack Product Development<br><br>## 📌 Current Goal<br><br>Building production-ready projects that combine clean UI, scalable backend architecture, and AI automation.<br><br>## 📫 Connect<br><br>- GitHub: https://github.com/yourusername<br>- Portfolio: Coming Soon
+## 💫 About Me
 
+Hi, I'm **Utpal Rajbongshi** 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/utpalrajbongshi2592) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/utpalrajbongshi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/utpalra10723199) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utpalr533@gmail.com) 
+Full-stack developer passionate about building fast, modern, and scalable web applications. I enjoy crafting polished user experiences while exploring AI-powered development, automation, and open-source tools.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=utpalr533&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=utpalr533&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=utpalr533&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌐 Full-Stack Web Development
+- ⚛️ React • Astro • Node.js
+- 🗄️ PostgreSQL • MongoDB
+- 🤖 AI Integrations • RAG • MCP • OpenCode
+- 🎬 Video Editing & Motion Graphics
 
----
-[![](https://komarev.com/ghpvc/?username=utpalr533&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Currently Learning
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Advanced React
+- System Design
+- AI Agents
+- RAG
+- Full-Stack Architecture
+
+### 🎯 Current Goal
+
+Building production-ready applications that combine clean UI, scalable backend architecture, and AI automation.
+
+### 📫 Connect
+
+- GitHub: **github.com/utpalr533**
+- Portfolio: **Coming Soon**
