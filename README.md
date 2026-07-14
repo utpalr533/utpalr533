@@ -26,3 +26,4 @@ Building production-ready applications that combine clean UI, scalable backend a
 
 - GitHub: **github.com/utpalr533**
 - Portfolio: **Coming Soon**
+- Linkedin: **linkedin.com/in/utpalrajbongshi**
